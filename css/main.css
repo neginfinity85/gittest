@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+
     background-color: #3576cb;
 
     font-family: -apple-system,
@@ -25,4 +27,10 @@ p {
 
 h2 {
     font-size: 40px;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
 }
