@@ -16,3 +16,13 @@ body {
     /* Smiles */
     font-size: 16px;
 }
+
+p {
+    margin: 0 0 10px;
+
+    color: #923e3e;
+}
+
+h2 {
+    font-size: 40px;
+}
