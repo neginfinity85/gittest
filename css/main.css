@@ -1,3 +1,18 @@
 body {
     background-color: #3576cb;
+
+    font-family: -apple-system,
+        BlinkMacSystemFont,
+        "Segoe UI",
+        Roboto,
+        Helvetica,
+        Arial,
+        sans-serif,
+        "Apple Color Emoji",
+        /* Smiles */
+        "Segoe UI Emoji",
+        /* Smiles */
+        "Segoe UI Symbol";
+    /* Smiles */
+    font-size: 16px;
 }
