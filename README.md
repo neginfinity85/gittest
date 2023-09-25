@@ -1,4 +1,6 @@
-<a id="anchor"></a># h1 Learning GitHub
+<a id="anchor"></a>
+
+# h1 Learning GitHub
 
 ## h2 header
 

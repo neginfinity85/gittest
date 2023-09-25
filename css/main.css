@@ -22,11 +22,12 @@ body {
 p {
     margin: 0 0 10px;
 
-    color: #923e3e;
+    color: #fff;
 }
 
 h2 {
     font-size: 40px;
+    color: #000;
 }
 
 .container {
