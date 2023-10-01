@@ -89,6 +89,10 @@ title
 
 : subtitle text
 
+**This is the Hello World example from the git tutorial.**
+
+**(changed in original)**
+
 [go up](#anchor)
 
 [^1]: inner link #1
